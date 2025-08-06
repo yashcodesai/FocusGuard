@@ -1,0 +1,8 @@
+---
+
+#### ✅ Also Update `requirements.txt` (initially):
+
+```txt
+streamlit
+opencv-python
+numpy
